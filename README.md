@@ -3,7 +3,7 @@ Model Deployment using streamlit
 
 <br>
 <h2>Quick Look</h2>
-![image alt](https://github.com/kundan351/streamlit_model_deploy/blob/main/Screenshot%202026-04-19%20150333.png?raw=true)
+![image alt]https://github.com/kundan351/streamlit_model_deploy/blob/9315ee7d146bd040ddb1e38496e0bf8f2b1c5278/Screenshot%202026-04-19%20150333.png)
 
 <h1>Requirements</h2>
 1 - <code>pip install streamlit</code><br>
