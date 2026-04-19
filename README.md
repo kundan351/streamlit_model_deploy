@@ -4,7 +4,7 @@ Model Deployment using streamlit
 <br>
 <h2>Quick Look</h2>
 
-![Alt Text](https://github.com/username/repo-name/assets/12345678/abcdefg.png)
+![Alt Text](https://github.com/kundan351/streamlit_model_deploy/blob/98bc5671be7cce9d78841501975db8f7fa565d5d/Screenshot%202026-04-19%20150333.png)
 
 
 <h1>Requirements</h2>
